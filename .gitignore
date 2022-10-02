@@ -1,0 +1,10 @@
+# Pycharm
+.idea
+
+# Djngo
+*.pyc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
